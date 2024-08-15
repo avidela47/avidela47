@@ -22,7 +22,7 @@
    </a>
   &emsp;
   <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>
   &emsp;
    <a>
@@ -34,11 +34,11 @@
   </a>
   &emsp;
   <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a>
   &emsp; 
   <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white">
   </a> 
   &emsp;
   <a> 
@@ -54,7 +54,7 @@
   </a>
   &emsp;
    <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white">
   </a>
   &emsp;
   <a>
